@@ -38,7 +38,7 @@ The project follow Maven's [standard directory layout structure](https://maven.a
   are located under `frontend/styles`
 
 ## Useful links
-
+- Stackoverflow is good.
 - Read the documentation at [vaadin.com/docs](https://vaadin.com/docs).
 - Follow the tutorials at [vaadin.com/tutorials](https://vaadin.com/tutorials).
 - Watch training videos and get certified at [vaadin.com/learn/training]( https://vaadin.com/learn/training).
